@@ -250,18 +250,6 @@ a {
   
 }
 
-
-
-.app__play__cards__triangle {
-  
-  width: 70%;
-  height: 35%;
-  position: absolute;
-  transform: translateY(10%);
-  z-index: -1;
-  
-}
-
 .app__play__rules-content {
   
   position: absolute;
