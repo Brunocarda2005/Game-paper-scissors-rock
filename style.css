@@ -188,7 +188,7 @@ a {
   height: 100%;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: .3rem;
+  gap: 1rem;
   place-items: center;
   place-content: center;
   
@@ -210,6 +210,15 @@ a {
   
 }
 
+.app__play__cards__triangle {
+
+  position: absolute;
+  width: 70%;
+  height: 30%;
+  z-index: -1;
+  margin-top: 1rem;
+
+}
 
 
 .app__play__cards__card {
